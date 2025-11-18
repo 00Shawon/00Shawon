@@ -1,11 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shawon</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-# Hi, I'm Shawon 👋
-
-Welcome to my GitHub profile! I'm a passionate developer constantly learning and building projects, especially with **React**, **Node.js**, **MongoDB**, and modern web technologies.
-
----
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate developer constantly learning and building projects, especially with React, Node.js, MongoDB, and modern web technologies.</h3>
 
 ## 🚀 About Me
 
@@ -46,6 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly learning and
 ![Shawon's GitHub stats](https://github-readme-stats.vercel.app/api?username=00Shawon\&show_icons=true\&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=00Shawon\&layout=compact\&theme=tokyonight)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=00shawon&" alt="00shawon" /></p>
 
 ---
 
@@ -80,4 +76,4 @@ A MERN stack project featuring authentication, artwork publishing, reviews, and 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=00shawon&show_icons=true&locale=en" alt="00shawon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=00shawon&" alt="00shawon" /></p>
+
