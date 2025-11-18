@@ -1,11 +1,78 @@
 
 <h1 align="center">Hi 👋, I'm Shawon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+# Hi, I'm Shawon 👋
+
+Welcome to my GitHub profile! I'm a passionate developer constantly learning and building projects, especially with **React**, **Node.js**, **MongoDB**, and modern web technologies.
+
+---
+
+## 🚀 About Me
+
+* 💻 Full-stack web developer (MERN)
+* 🎨 Strong interest in UI/UX and smooth user experiences
+* 🌱 Always learning new tools and improving existing skills
+* 📘 Love building applications that are clean, functional, and user‑friendly
+* 🔥 Open to collaboration on exciting projects
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+
+* React.js
+* JavaScript (ES6+)
+* Tailwind CSS
+* HTML5 / CSS3
+
+### **Backend**
+
+* Node.js
+* Express.js
+* MongoDB (Atlas)
+
+### **Tools & Others**
+
+* Git & GitHub
+* Firebase Authentication
+* JWT
+* REST APIs
+
+---
+
+## 📊 GitHub Stats
+
+![Shawon's GitHub stats](https://github-readme-stats.vercel.app/api?username=00Shawon\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=00Shawon\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 **ArtSphere – Artwork Sharing Platform**
+
+A MERN stack project featuring authentication, artwork publishing, reviews, and dashboard.
+
+### 🔹 **More projects coming soon...**
+
+---
+
+
+---
+
+⭐ *If you like my work, consider giving a star to my projects!*
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=00shawon&label=Profile%20views&color=0e75b6&style=flat" alt="00shawon" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+
+* 🌐 **GitHub:** [00Shawon](https://github.com/00Shawon/)
+* 💼 More social links can be added here
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
