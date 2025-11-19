@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Shawon</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate developer constantly learning and building projects, especially with React, Node.js, MongoDB, and modern web technologies.</h3>
+<p align="center">
+  <img src="/Purple and Pink Minimalist Front-End Developer LinkedIn Banner.png" alt="Skill Swap Banner" width="100%" />
+</p>
 
 ## 🚀 About Me
 
